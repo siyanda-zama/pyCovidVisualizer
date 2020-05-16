@@ -1,9 +1,9 @@
 # pyCovidVisualizer
 A python script that allows you to see the number of infections in your country and plots the results on a graph.
 
-## SSL
+## SSL (Secure Sockets Layer)
 
-You need import ssl (Secure Sockets Layer)too reason being that your app might not work if you doing, because your connection might not be secure and the csv file that we're reading from needs a secure connection.
+You need import ssl too reason being that your app might not work if you doing, because your connection might not be secure and the csv file that we're reading from needs a secure connection.
 
 ## Changes that can be applied
 
